@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
 
         Log.e("TAG","log objek mobil ${objekMobil.kursi} ${objekMobil.pintu}")
 
-
+        //
         //kondisi if
         kondisiIf()
         //kondisi if else
