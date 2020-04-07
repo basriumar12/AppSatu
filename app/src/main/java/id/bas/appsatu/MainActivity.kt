@@ -34,19 +34,12 @@ class MainActivity : AppCompatActivity() {
 
         Log.e("TAG","log objek mobil ${objekMobil.kursi} ${objekMobil.pintu}")
 
-        //
-        //kondisi if
-        kondisiIf()
-        //kondisi if else
-        kondisiIfElse()
-        //kondisi if elseif elseif else
-        kondisiIfElseIfElse()
-        //kondisi when
-        whenKondisi()
 
 
 
     }
+
+
 
     private fun whenKondisi() {
         var nilaiSaya = 75
