@@ -35,7 +35,7 @@
             android:layout_height="50dp"
             android:layout_marginTop="10dp"
             android:background="@drawable/bg_edt"
-            android:drawableLeft="@drawable/ic_email_black_24dp"
+            android:drawableLeft="@drawable/ic_vpn_key_black_24dp"
             android:drawablePadding="15dp"
             android:hint="@string/pass"
             android:paddingLeft="10dp"
@@ -73,7 +73,7 @@
         android:layout_marginTop="20dp"
         android:layout_marginBottom="20dp"
         android:gravity="center"
-        android:text="New Here ? Sign Up"
+        android:text="@string/new_here_sign_up"
         android:textColor="#fff"
         android:textSize="18sp" />
 

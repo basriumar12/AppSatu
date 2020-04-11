@@ -8,5 +8,6 @@
     <string name="password">Password</string>
     <string name="edt_username">Username</string>
     <string name="pass">Password</string>
+    <string name="new_here_sign_up">New Here ? Sign Up</string>
 
 </resources>
